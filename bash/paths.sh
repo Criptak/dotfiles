@@ -12,7 +12,7 @@ PATH="/usr/local/share/npm/bin:${PATH}"
 # PATH="/Applications/Sublime Text 2.app/Contents/SharedSupport/bin:${PATH}"
 
 # sublime text 3 bin paths
-PATH="/Applications/Sublime Text 3.app/Contents/SharedSupport/bin:${PATH}"
+PATH="/Applications/Sublime Text.app/Contents/SharedSupport/bin:${PATH}"
 
 if [ -d "/usr/local" ]; then
   PATH="/usr/local/bin:/usr/local/sbin:$PATH"

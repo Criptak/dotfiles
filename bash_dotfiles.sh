@@ -30,6 +30,11 @@ if [ -f ~/.bash/python.sh ]; then
   . ~/.bash/python.sh
 fi
 
+# Shell Functions
+if [ -f ~/.bash/functions.sh ]; then
+  . ~/.bash/functions.sh
+fi
+
 # Aliases
 if [ -f ~/.bash/aliases.sh ]; then
   . ~/.bash/aliases.sh

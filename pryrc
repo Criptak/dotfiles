@@ -17,3 +17,7 @@ class Object
     (methods - Object.instance_methods).sort
   end
 end
+
+Pry.commands.alias_command 'c', 'continue'
+Pry.commands.alias_command 's', 'step'
+Pry.commands.alias_command 'n', 'next'

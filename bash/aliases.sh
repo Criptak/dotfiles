@@ -22,6 +22,7 @@ alias assert="bx assert"
 alias sanford="bx sanford"
 alias ardb="bx ardb"
 alias dassets="bx dassets"
+alias tc="testc"
 
 alias ghost="sudo ghost"
 alias ghost-ssh="ghost-ssh"
